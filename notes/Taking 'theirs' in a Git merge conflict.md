@@ -1,0 +1,8 @@
+# Taking 'theirs' in a Git merge conflict
+To take 'theirs' for individual conflicting files  in a merge conflict:
+
+`git checkout --theirs path/to/file`
+
+Source: [stackoverflow.com](https://stackoverflow.com/questions/10697463/resolve-git-merge-conflicts-in-favor-of-their-changes-during-a-pull)
+
+#git 
