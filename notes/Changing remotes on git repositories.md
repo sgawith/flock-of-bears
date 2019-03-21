@@ -9,7 +9,7 @@ To remove a current remote:
 
 To add a remote
 
-`git add-remote REMOTE_NAME REMOTE_URL`
+`git remote add REMOTE_NAME REMOTE_URL`
 
 Sources:
 * [github.com](https://help.github.com/articles/removing-a-remote/)
